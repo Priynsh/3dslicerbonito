@@ -1,0 +1,4 @@
+[deps]
+Bonito = "824d6782-a2ef-11e9-3a09-e5662e0c26f8"
+LinearAlgebra = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
+WGLMakie = "276b4fcb-3e11-5398-bf8b-a0c2d153d008"
